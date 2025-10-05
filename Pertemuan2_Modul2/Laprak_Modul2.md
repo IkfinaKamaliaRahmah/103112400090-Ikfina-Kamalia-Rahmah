@@ -304,13 +304,10 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/IkfinaKamaliaRahmah/103112400090-Ikfina-Kamalia-Rahmah/blob/main/!03112400090-Ikfina-Kamalia-Rahmah/images/Output-Unguided1-Modul2-1.png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
+![Screenshot Output Unguided 1_1](https://github.com/IkfinaKamaliaRahmah/103112400090-Ikfina-Kamalia-Rahmah/blob/main/!03112400090-Ikfina-Kamalia-Rahmah/images2/Output-Unguided1-Modul2-1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/IkfinaKamaliaRahmah/103112400090-Ikfina-Kamalia-Rahmah/blob/main/!03112400090-Ikfina-Kamalia-Rahmah/images/Output-Unguided1-Modul2-2.png)
+![Screenshot Output Unguided 1_2](https://github.com/IkfinaKamaliaRahmah/103112400090-Ikfina-Kamalia-Rahmah/blob/main/!03112400090-Ikfina-Kamalia-Rahmah/images2/Output-Unguided1-Modul2-2.png)
 
 penjelasan unguided 1 
 Program di atas merupakan program sederhana dalam bahasa C++ yang digunakan untuk melakukan operasi aritmatika dasar, yaitu penjumlahan, pengurangan, perkalian, dan pembagian. Program ini meminta pengguna memasukkan dua bilangan bertipe float, kemudian hasil dari setiap operasi ditampilkan ke layar. Untuk operasi pembagian, program menggunakan percabangan if-else agar lebih aman. Jika bilangan kedua tidak sama dengan nol, hasil pembagian akan ditampilkan, namun jika bilangan kedua bernilai nol, maka program akan memberikan pesan bahwa pembagian tidak dapat dilakukan. Dengan demikian, program ini memperlihatkan penggunaan input/output dasar dengan cin dan cout, serta contoh penerapan percabangan if-else untuk mengantisipasi error seperti pembagian dengan nol.
@@ -358,13 +355,10 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/IkfinaKamaliaRahmah/103112400090-Ikfina-Kamalia-Rahmah/blob/main/!03112400090-Ikfina-Kamalia-Rahmah/images/Output-Unguided2-Modul2-3.png)
-
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
+![Screenshot Output Unguided 2_1](https://github.com/IkfinaKamaliaRahmah/103112400090-Ikfina-Kamalia-Rahmah/blob/main/!03112400090-Ikfina-Kamalia-Rahmah/images2/Output-Unguided2-Modul2-3.png)
 
 ##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/IkfinaKamaliaRahmah/103112400090-Ikfina-Kamalia-Rahmah/blob/main/!03112400090-Ikfina-Kamalia-Rahmah/images/Output-Unguided2-Modul2-4.png)
+![Screenshot Output Unguided 2_2](https://github.com/IkfinaKamaliaRahmah/103112400090-Ikfina-Kamalia-Rahmah/blob/main/!03112400090-Ikfina-Kamalia-Rahmah/images2/Output-Unguided2-Modul2-4.png)
 
 penjelasan unguided 2
 Program ini adalah implementasi konsep pointer dan reference untuk menukar nilai tiga variabel (a, b, dan c). Fungsi tukarPointer() menggunakan alamat memori (&) untuk menukar nilai variabel dengan bantuan pointer, sedangkan fungsi tukarReference() menggunakan reference (&x) yang bertindak sebagai alias dari variabel aslinya. Hasilnya, nilai-nilai dari ketiga variabel tersebut akan saling bertukar posisi tanpa perlu menggunakan variabel tambahan di luar fungsi. Program ini menunjukkan perbedaan antara penggunaan pointer dan reference, di mana reference lebih sederhana dan langsung, sementara pointer memberikan kontrol lebih dalam terhadap alamat memori.
@@ -446,13 +440,10 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/IkfinaKamaliaRahmah/103112400090-Ikfina-Kamalia-Rahmah/blob/main/103112400090-Ikfina-Kamalia-Rahmah/images/Output-Unguided3-Modul2-5.png)
-
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
+![Screenshot Output Unguided 3_1](https://github.com/IkfinaKamaliaRahmah/103112400090-Ikfina-Kamalia-Rahmah/blob/main/103112400090-Ikfina-Kamalia-Rahmah/images2/Output-Unguided3-Modul2-5.png)
 
 ##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/IkfinaKamaliaRahmah/103112400090-Ikfina-Kamalia-Rahmah/blob/main/!03112400090-Ikfina-Kamalia-Rahmah/images/Output-Unguided3-Modul2-6.png)
+![Screenshot Output Unguided 3_2](https://github.com/IkfinaKamaliaRahmah/103112400090-Ikfina-Kamalia-Rahmah/blob/main/!03112400090-Ikfina-Kamalia-Rahmah/images2/Output-Unguided3-Modul2-6.png)
 
 penjelasan unguided 3
 Program ini adalah contoh penerapan array satu dimensi dan fungsi-fungsi terpisah untuk mengolah data numerik. Array arrA berisi 10 angka, dan program menyediakan menu interaktif menggunakan switch-case agar pengguna bisa memilih operasi yang diinginkan, seperti: 
