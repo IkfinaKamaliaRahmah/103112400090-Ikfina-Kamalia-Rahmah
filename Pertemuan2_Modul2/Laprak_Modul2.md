@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 1 - Codeblocks IDE & Pengenalan Bahas C++ (Bagian Pertama)</h1>
+# <h1 align="center">Laporan Praktikum Modul 2- Pengenalan Bahas C++ (Bagian kedua)</h1>
 <p align="center">Ikfina Kamalia Rahmah - 103112400090</p>
 
 ## Dasar Teori

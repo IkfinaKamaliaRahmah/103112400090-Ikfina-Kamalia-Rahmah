@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 1 - Codeblocks IDE & Pengenalan Bahas C++ (Bagian Pertama)</h1>
+# <h1 align="center">Laporan Praktikum Modul 4- Singly Linked list (bagian pertama)</h1>
 <p align="center">Ikfina Kamalia Rahmahh - 103112400090</p>
 
 ## Dasar Teori
