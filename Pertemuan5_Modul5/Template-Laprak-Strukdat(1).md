@@ -2,9 +2,6 @@
 <p align="center">Ikfina Kamalia Rahmah - 103112400090</p>
 
 ## Dasar Teori
-isi dengan penjelasan dasar teori disertai referensi jurnal (gunakan kurung siku [] untuk pernyataan yang mengambil refernsi dari jurnal).
-contoh :
-Linked list atau yang disebut juga senarai berantai adalah Salah satu bentuk struktur data yang berisi kumpulan data yang tersusun secara sekuensial, saling bersambungan, dinamis, dan terbatas[1]. Linked list terdiri dari sejumlah node atau simpul yang dihubungkan secara linier dengan bantuan pointer.
 
 ### A. Pengertian dan Struktur Singly Linked List<br/>
 Struktur data linked list atau senarai berantai adalah struktur data dinamis yang terdiri atas simpul-simpul (nodes) yang terhubung secara sekuensial melalui pointer atau referensi. Setiap node biasanya berisi dua bagian, yaitu data dan pointer yang menunjuk ke node berikutnya. Node terakhir menunjuk ke NULL sebagai penanda akhir daftar. Linked list memungkinkan ukuran data berubah-ubah (dinamis) selama program berjalan, tidak seperti array yang memiliki ukuran tetap [1].
